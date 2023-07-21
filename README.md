@@ -9,7 +9,6 @@ Go to the link below for installation if you don't have installed yet.
 
 - [Node js](https://nodejs.org/en/download)
 
-<br/>
 
 ## ⚙️ Installation & Getting started :
 
@@ -36,9 +35,9 @@ Go to the link below for installation if you don't have installed yet.
 3. Run the command `npm start` or `nodemon index.js` to start live server on database
 
 
-### Congratulation 🎉 you have setup the environment successfully
+- Congratulation 🎉 you have setup the environment successfully
 
-<br/>
+
 
 ## 🛠️ Technology Used
 
